@@ -1,8 +1,6 @@
 # react-nui
 
-React functions based on the Project Error repository:
-
-[ Project Error FiveM React Boilerplate](https://github.com/project-error/fivem-react-boilerplate-lua)
+React functions based on the Project Error repository [ Project Error FiveM React Boilerplate](https://github.com/project-error/fivem-react-boilerplate-lua)
 
 ## Installation
 
